@@ -1,8 +1,9 @@
 # CMPINF0010-lab5
 ## Topic: Words light up your day
-   Get the user's name.
-   Then the program asks him/her "How are you today" by entering a rate between 1 - 5.
+   Get the user's name.\
+   Then the program asks him/her "How are you today" by entering a rate between 1 - 5.\
    Based on the rate, the program prints out the name and different words:
+   
        1 - "Username, Everything is gonna be ok"
        2 - "Username, Chin up and go"
        3 - "Username, Success is waiting ahead"
