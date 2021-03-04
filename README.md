@@ -9,4 +9,7 @@
        3 - "Username, Success is waiting ahead"
        4 - "Username, Great to hear! Keep up!"
        5 - "Username, Have a nice day YAY"
-   
+## Group members:
+   Zhen Wu - zhw87@pitt.edu \
+   Xingjian Zhang - xiz201@pitt.edu \
+   Yuqing Zhang - yuz191@pitt.edu
